@@ -17,7 +17,7 @@ class App extends StatelessWidget {
             color: Color(0xFF232B55),
           ),
         ),
-        cardColor: const Color(0xFFF4EDDB),
+        cardColor: const Color.fromRGBO(161, 128, 43, 1),
         colorScheme: ColorScheme.fromSeed(
           seedColor: const Color.fromARGB(255, 47, 112, 90),
         ),
